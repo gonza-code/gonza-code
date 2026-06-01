@@ -46,7 +46,7 @@ Me interesa el producto digital bien construido: interfaces cuidadas, código li
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gonza-code&show_icons=true&theme=transparent&title_color=F5E642&text_color=E8E8E0&icon_color=F5E642&border_color=222222&bg_color=0A0A0A&cache_seconds=1800)
+![GitHub streak](https://streak-stats.demolab.com?user=gonza-code&theme=transparent&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&sideLabels=E8E8E0&dates=666660&border=222222)
 
 </div>
 
