@@ -46,7 +46,7 @@ Me interesa el producto digital bien construido: interfaces cuidadas, código li
 
 <div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com?user=gonza-code&theme=transparent&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&sideLabels=E8E8E0&dates=666660&border=222222)
+![GitHub streak](https://streak-stats.demolab.com?user=gonza-code&theme=transparent&ring=F5E642&fire=F5E642&currStreakLabel=F5E642&currStreakNum=F5E642&sideLabels=E8E8E0&sideNums=FAFAF5&dates=666660&border=222222&background=0A0A0A)
 
 </div>
 
