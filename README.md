@@ -11,7 +11,7 @@ Me interesa el producto digital bien construido: interfaces cuidadas, código li
 
 [![Portfolio](https://img.shields.io/badge/gonzalotellado.com-F5E642?style=flat-square&logo=safari&logoColor=0A0A0A)](https://gonzalotellado.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F5E642?style=flat-square&logo=linkedin&logoColor=0A0A0A)](https://linkedin.com/in/gonzalo-tellado)
-[![Email](https://img.shields.io/badge/hola@gonzalotellado.com-F5E642?style=flat-square&logo=gmail&logoColor=0A0A0A)](mailto:hola@gonzalotellado.com)
+[![Email](https://img.shields.io/badge/hola@gonzalotellado.com-F5E642?style=flat-square&logo=protonmail&logoColor=0A0A0A)](mailto:hola@gonzalotellado.com)
 
 </div>
 
