@@ -2,10 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=72&duration=3000&pause=1000&color=F5E642&center=true&vCenter=true&width=700&height=90&lines=GONZALO+TELLADO" alt="Gonzalo Tellado" />
 
-**Desarrollador Frontend con base full-stack · Madrid 🇪🇸**
+**Desarrollador de Software · Madrid 🇪🇸**
 
-Experiencia real construyendo aplicaciones web con Java, Spring Boot y frontend a medida.  
-Me interesa el producto digital bien construido: interfaces cuidadas, código limpio y experiencias que dan gusto usar.
+Soy Gonzalo, desarrollador de software con base en Madrid. En LKS Next GobTech desarrollé una aplicación web interna con Spring Boot, Thymeleaf y Spring Security, y en OLS Engineering automaticé procesos internos con Python. Me interesa crear productos digitales útiles y bien construidos, tanto en backend como en frontend. Valoro el código limpio, las buenas interfaces y las experiencias que aportan valor real al usuario.
 
 <br/>
 
@@ -21,10 +20,10 @@ Me interesa el producto digital bien construido: interfaces cuidadas, código li
 
 ![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=flat-square&logo=next.js&logoColor=F5E642)
 ![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=F5E642)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=F5E642)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0A0A0A?style=flat-square&logo=tailwindcss&logoColor=F5E642)
 ![Java](https://img.shields.io/badge/Java-0A0A0A?style=flat-square&logo=openjdk&logoColor=F5E642)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=flat-square&logo=springboot&logoColor=F5E642)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0A0A0A?style=flat-square&logo=thymeleaf&logoColor=F5E642)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=mysql&logoColor=F5E642)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=F5E642)
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=F5E642)
